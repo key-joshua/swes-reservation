@@ -50,7 +50,7 @@ const EquipmentHistoryPage = () =>{
     const [isLoading, setIsLoading] = useState(true)
     const [searchTerm, setSearchTerm] = useState("")
     const [currentPage, setCurrentPage] = useState(1)
-    const [itemsPerPage, setItemsPerPage] = useState(10)
+    const [itemsPerPage, setItemsPerPage] = useState(5)
     const [statusFilter, setStatusFilter] = useState([])
     const [reservations, setReservations] = useState([])
     const [endDateFilter, setEndDateFilter] = useState("")
