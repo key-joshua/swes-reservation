@@ -10,7 +10,5 @@
 
 ## SETUP AND RUN APPLICATION
 
-- Add .env file with (REACT_APP_SERVER_URL)
-
 - For development run ```run npm dev```
 - For production run ```npm run build``` and ```npm run start```
