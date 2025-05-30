@@ -1,7 +1,7 @@
 # SWES RESERVATION CLIENT
 
 - This is Staff Wear & Equipment Scheduler (SWES) For managing and distributing employees equipments.
-- Access Hosted Server: https://swes-reservation.netlify.app
+- Access Hosted Application: https://swes-reservation.netlify.app
 
 ## INSTALLATION
 
